@@ -17,6 +17,8 @@ The data set contains their 4765 unique proteins and 136 unique drugs that targe
 - question-3-valid-protein-index.csv 
 - question-3-drug-index.csv
 
+** Since data files can be over 25 MB and github does not allow to upload the files, the question's files can be found via that link: https://drive.google.com/open?id=1MY7rvgYp4YJxrqO1NEy6gWqwxwGHvZ3g 
+
 ## Program
  kNN implementation had used for the training and validation sets.
 
